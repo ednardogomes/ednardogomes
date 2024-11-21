@@ -1,10 +1,26 @@
-<h1>👋 &nbsp;Olá, eu sou o Ednardo, um desenvolvedor full stack apaixonado pelo que faz!</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1496D4&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1496D4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Antonio+Ednardo+Almeida+Gomes;I'm+30+years+old;I+am+from+Fortaleza,+CE;I+study+WEB+Developer+Full+Stack;+at+Full+Stack+Club+and+Rocket+Seat;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ednardogomes&show_icons=true&count_private=true&hide_border=true&title_color=1496D4&icon_color=00bfbf&text_color=1496D4&bg_color=0d1117" alt="Ednardo Gomes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ednardogomes&layout=compact&hide_border=true&title_color=1496D4&text_color=1496D4&bg_color=0d1117" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ednardogomes&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="center">
-<a href="https://www.instagram.com/ednardo94/"><img src="https://img.shields.io/badge/-@ednardo94_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ednardogomes/"><img src="https://img.shields.io/badge/-Ednardo%20Gomes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ednardogomesdev@gmail.com"><img src="https://img.shields.io/badge/-ednardogomesdev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ednardogomes&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<p align="center">
+<a href="https://www.instagram.com/ednardo94/"><img src="https://img.shields.io/badge/-@ednardo94_-E4405F?style=flat-square&logo=Instagram&logoColor=1496D4"/></a>
+<a href="https://www.linkedin.com/in/ednardogomes/"><img src="https://img.shields.io/badge/-Ednardo%20Gomes-0077B5?style=flat-square&logo=Linkedin&logoColor=1496D4"/></a>
+<a href="mailto:ednardogomesdev@gmail.com"><img src="https://img.shields.io/badge/-ednardogomesdev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=1496D4"/></a>
 
 </p>
+
+
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
@@ -34,6 +50,4 @@
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Ednardo Gomes GitHub Stats](https://github-readme-stats.vercel.app/api?username=ednardogomes&show_icons=true&theme=dracula)
